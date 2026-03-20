@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "I Need Your Love (Extended Mix)",
+  "base_artist": "DAVE SIMON",
+  "createdAt": "2026-03-20T10:03:14.196471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I NEED YOUR LOVE - EXTENDED MIX",
+      "artist": "Dave Simon",
+      "has_synced": true,
+      "path": "select/01_I_NEED_YOUR_LOVE_-_EXTENDED_MIX_Dave_Simon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Need Your Love - Extended Mix",
+      "artist": "Dave Simon",
+      "has_synced": true,
+      "path": "select/02_I_Need_Your_Love_-_Extended_Mix_Dave_Simon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Need Your Love (Extended Mix)",
+      "artist": "Dave Simon",
+      "has_synced": true,
+      "path": "select/03_I_Need_Your_Love_(Extended_Mix)_Dave_Simon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Need Your Love (Extended Mix)",
+      "artist": "Dave Simon",
+      "has_synced": true,
+      "path": "select/04_I_Need_Your_Love_(Extended_Mix)_Dave_Simon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Need Your Love - Extended Mix",
+      "artist": "Dave Simon",
+      "has_synced": false,
+      "path": "select/pl_01_I_Need_Your_Love_-_Extended_Mix_Dave_Simon.txt"
+    }
+  ]
+}
